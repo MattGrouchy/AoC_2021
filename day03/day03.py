@@ -5,6 +5,10 @@ Author: Matthew Grouchy
 '''
 
 
+def day03():
+    print("this is where the functions should be called from")
+
+
 def part1(data):
     ''' function for part 1. Takes binary values.'''
     # gamma rate = most common bit in the column
