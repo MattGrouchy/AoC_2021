@@ -1,4 +1,4 @@
-from day03.day03 import part1, part2, part2_jareds
+from day03.day03 import part1, part2
 from helpers.utils import load_data
 
 
